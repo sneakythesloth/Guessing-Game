@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    margin: auto;
+    font-family: "Average Sans", "Commissioner", "Cantarell";
+}
+
+pre,
+p {
+    font-size: 1.1875rem;
+}
+
+h1 {
+    font-size: 2.2rem;
+}
+
+h2 {
+    font-size: 1.95rem;
+}
+
+button {
+    border: none;
+    border-radius: 20px;
+    font-family: "Average Sans", "Commissioner", "Cantarell";
+    color: #ffffff;
+    background-color: #67b7f1;
+    padding: 20px;
+    font-size: 1rem;
+    font-family: "Cantarell", "Commissioner", "Average Sans";
+    transition: 0.5s;
+}
+
+input {
+    padding: 5px;
+    cursor: text;
+    font-family: "Average Sans", "Commissioner", "Cantarell";
+}
+
+button:hover {
+    background-color: #4292cc;
+    cursor: pointer;
+}
+
+#hint-container {
+    display: block;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+input {
+    font-family: "Average Sans", "Commissioner", "Cantarell";
+}
+
+.correct-msg {
+    color: #0fb189;
+}
+
+.wrong-msg {
+    color: #a21414;
+}
