@@ -6,6 +6,7 @@
 4) You get 20 hints every round although teachers get less
 5) This does have some teachers at my school. feel free to edit that as you wish.
 6) AI was only used to come up with the celebrities and the hints because I am too lazy to do that
+7) This is the URL: https://guessing-gamejameskova.netlify.app/
 
 
 ## IN FUTURE I WILL TRY TO MAKE THIS AN AI INSTEAD OF AN ARRAY
