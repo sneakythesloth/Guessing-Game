@@ -8,7 +8,4 @@
 6) AI was only used to come up with the celebrities and the hints because I am too lazy to do that
 7) This is the URL: https://guessing-gamejameskova.netlify.app/
 
-
-## IN FUTURE I WILL TRY TO MAKE THIS AN AI INSTEAD OF AN ARRAY
-
-## YOU NEED A TEXT EDITOR SUCH AS VS CODE ASWELL AS AN EXTENSION SUCH AS LIVE SERVER OR SOMETHING SIMILAR. YOU CANNOT RUN THIS IN TERMINAL!!!!!!!!!
+## You will need a text editor such as VS Code extension such as live server or something similar as you cannot run this in the terminal.

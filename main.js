@@ -147,7 +147,9 @@ const celebs = [
       "He is australian",
       "He lived in New York for 4 years",
       "Me and Mason Ma made a nickname for him called 'Crispy Buns'",
-      "Millan Wang really dislikes them",
+      "Millan Wang really \dislikes them",
+      "X",
+      "taller than average",
     ]
   },
   {
